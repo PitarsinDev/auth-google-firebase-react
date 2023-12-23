@@ -1,0 +1,38 @@
+.name{
+  text-align: center;
+  padding-top: 50px;
+  font-size: 30px;
+}
+.txt{
+  padding: 5px;
+  text-align: center;
+}
+.profile-card-ctr{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+.profile-card__button{
+  border-radius: 5px;
+  border: 1px solid red;
+  padding: 5px 10px;
+  color: red;
+  transition: .3s;
+}
+.profile-card__button:hover{
+  background-color: red;
+  color: white;
+}
+.flexsign{
+  margin-top: 200px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.login-with-google-btn{
+  display: flex;
+}
+.login-with-google-btn span{
+  padding-top: 2.5px;
+  padding-right: 5px;
+}
